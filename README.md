@@ -30,7 +30,8 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![ouput](a.png)
+<img width="527" alt="j" src="https://user-images.githubusercontent.com/121222763/214488686-f2817c35-2f05-49ed-bed1-f9034d6e296d.png">
+
 
 
 ## Result:
