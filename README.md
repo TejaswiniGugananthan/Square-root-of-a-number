@@ -16,6 +16,9 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```python
+#Program to square root of a number.
+#Developed by: Tejaswini.G
+#RegisterNumber:22004187
 def squareroot(num1,iternum):
     num2=float(num1)
     for i in range(iternum):
